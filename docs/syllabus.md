@@ -1,8 +1,8 @@
 
 
 
-[home](http://tiny.cc/fss2016) | [copyright](https://github.com/txt/fss16/blob/master/LICENSE.md) &copy;2016, igortn&commat;northeastern.edu<br>
-[<img src="https://raw.githubusercontent.com/gortonator/CS6510-Advanced-Software-Development/master/img/BSDS.png">](http://tiny.cc/fss2016) <br>
+[home](https://github.com/gortonator/CS6510-Advanced-Software-Development) | igortn&commat;northeastern.edu<br>
+[<img src="https://raw.githubusercontent.com/gortonator/CS6510-Advanced-Software-Development/master/img/BSDS.png">](https://github.com/gortonator/CS6510-Advanced-Software-Development) <br>
 
 # **Building Scalable Distributed Systems: Spring 2017**
 
