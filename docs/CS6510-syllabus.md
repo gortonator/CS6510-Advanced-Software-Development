@@ -4,7 +4,7 @@
 igortn&commat;northeastern.edu<br>
 [<img src="https://raw.githubusercontent.com/gortonator/CS6510-Advanced-Software-Development/master/img/CS6510.png">](http://tiny.cc/f) <br>
 
-# **Advanced Software Development: **
+#**Advanced Software Development: **
 ##**Spring 2017**
 **Professor:** Ian Gorton, igortn@northeastern.edu
 **Piazza:** on its way
@@ -13,7 +13,7 @@ igortn&commat;northeastern.edu<br>
 Designed to integrate academic concepts and practical experience of software design by having students work as part of a sizeable agile programming team, with an option to lead a subteam. Offers students an opportunity to study, in-depth, some aspects of the development process. The goal is to have students participate in a large-scale project, taking time to reflect and analyze the work and the process, and to produce a significant demonstrable outcome in the form of a working software system.  
 
 ###**2017 Project**
-The class will build a cloud-based data managment and analysis platform for massive-scale scientific data sets. The AWS EC2 cloud wil be develpment/delivery  platform. A project specification can be [here](https://github.com/gortonator/CS6510-Advanced-Software-Development/master/docs/CS6510ProjectDescription2017.md).
+The class will build a cloud-based data managment and analysis platform for massive-scale scientific data sets. The AWS EC2 cloud wil be develpment/delivery  platform. A project specification can be [here](https://github.com/gortonator/CS6510-Advanced-Software-Development/blob/master/docs/CS6510ProjectDescription2017.md).
 
 ###**Prerequisites**  
 
