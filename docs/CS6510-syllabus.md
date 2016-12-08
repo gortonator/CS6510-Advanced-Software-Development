@@ -2,9 +2,9 @@
 
 
 igortn&commat;northeastern.edu<br>
-[<img src="https://raw.githubusercontent.com/gortonator/CS6510-Advanced-Software-Development/master/img/CS6510.png">](http://tiny.cc/f) <br>
+[<img src="https://raw.githubusercontent.com/gortonator/CS6510-Advanced-Software-Development/master/img/CS6510.png <br>
 
-#**Advanced Software Development: **
+#**Advanced Software Development**
 ##**Spring 2017**
 **Professor:** Ian Gorton, igortn@northeastern.edu
 **Piazza:** on its way
