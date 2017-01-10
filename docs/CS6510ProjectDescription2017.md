@@ -1,12 +1,12 @@
 
 
 
-igortn&commat;northeastern.edu<br>
+i.gorton&commat;northeastern.edu<br>
 <img src="https://raw.githubusercontent.com/gortonator/CS6510-Advanced-Software-Development/master/img/CS6510.png"> <br>
 
 #**Advanced Software Development** 
 ##**Spring 2017**
-**Professor:** Ian Gorton, igortn@northeastern.edu
+**Professor:** Ian Gorton, i.gorton@northeastern.edu
 
 
 ###**Project Overview**
