@@ -51,11 +51,14 @@ There will also be an individual assessemnt based on contribution reports each s
 
 ## Curriculum
 
-
 <table>  
+  <col width="50">
+  <col width="150"> 	
+  <col width="250">
+  <col width="150">  	
   <tr>
     <th>Week</th>
-    <th>Topics to be focused on</th>
+    <th> Topics </th>
     <th>Readings</th>
     <th>Homework</th>
   </tr>
