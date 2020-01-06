@@ -163,10 +163,22 @@ http://gerrithub.io/ <br>
     <td></td>
     <td></td>
   </tr>
+   <tr>
+    <td>8 and 9</td>
+    <td>Code a9nd System Metrics </td>
+    <td> Software Metrics: A Rigorous and Practical Approach, Third Edition <br>
+	Goal Question Metric Paradigm (Chapter 3) <br>
+	Size Metrics (Chapter 8)
+	Structure Metrics (Chapter 9)
+	
+	</td>
+    <td>Evaluate and select tools to use to drive refactoring based on identified metrics</td>
+  </tr>
   <tr>
-    <td>8</td>
+    <td>10 onwards</td>
     <td>The classes focus on monitoring progress for each sprint and presenting and demonstrating deliverables associated with each assessment. The focus is on putting the concept discussed in the early weeks of the course into practice. </td>
-    <td></td>
+    <td>
+	</td>
     <td></td>
   </tr>
  </table>
