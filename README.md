@@ -169,7 +169,7 @@ http://gerrithub.io/ <br>
   </tr>
    <tr>
     <td>8 and 9</td>
-    <td>Code a9nd System Metrics </td>
+    <td>Code and System Metrics </td>
     <td> Software Metrics: A Rigorous and Practical Approach, Third Edition <br>
 	Goal Question Metric Paradigm (Chapter 3) <br>
 	Size Metrics (Chapter 8)
