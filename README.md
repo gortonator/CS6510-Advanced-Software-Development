@@ -6,7 +6,7 @@
 
 ## Teaching Assistants
 - Seattle - coming soon
-- San Jose - shukla.neAThusky.neu.edu
+- San Jose - __Neha Shukla__: shukla.neAThusky.neu.edu
 - Boston - coming soon
 
 ## Introduction
