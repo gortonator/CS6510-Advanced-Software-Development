@@ -1,28 +1,25 @@
 # CS6510 Advanced Software Development (ASD)
 
 ## Instructors
-Ian Gorton: Email: i.gortonATnortheastern.edu
-
-Adrienne Slaughter: Email: a.slaughterATnortheastern.edu
+- __Ian Gorton__: i.gortonATnortheastern.edu
+- __Adrienne Slaughter__: a.slaughterATnortheastern.edu
 
 ## Teaching Assistants
-Seattle - coming soon
-
-San Jose - coming soon
-
-Boston - coming soon
+- Seattle - coming soon
+- San Jose - coming soon
+- Boston - coming soon
 
 ## Introduction
 ASD is designed to integrate academic concepts and practical experience of software engineering by having students work as part of a sizeable agile programming team, with options to lead a subteam. The course offers students an opportunity to study, in-depth, some aspects of the development process pertinent to a complex, ill-defined set of system requirements. The goal is to have students participate in a large-scale project, taking time to reflect and analyze the work and the process, and to produce a significant demonstrable outcome in the form of a working, deployed software system.
 
 ## Project
-Each class works collaboratively to build a software project for an external client. The project description for the Spring 2020 Semester is [here](https://gortonator.github.io/CS6510-Advanced-Software-Development/ClimateTree.md).
+Each class works collaboratively to build a software project for an external client. The project description for the Spring 2020 Semester is [here](https://gortonator.github.io/CS6510-Advanced-Software-Development/ClimateTree).
 
 ## Prerequesites
 Students should have completed FSE and/or a coop/intern. These prerequisites can be waived based on individual circumstances and experience such as that gained on COOPs or in other courses such as Web Development, Data Mining/Machine learning. Please contact the Professors to discuss
 
 ## Attendance 
-Students are expected to attend each class on campus. If there is avalid reason, then a student may request to attend class remotely. All classes are held via video conference across participating capus locations.
+Students are expected to attend each class on campus. If there is avalid reason, then a student may request to attend class remotely. All classes are held via video conference across participating campus locations.
 
 ## Learning Objectives
 At the end of the course, students will have acquired the following knowledge:
