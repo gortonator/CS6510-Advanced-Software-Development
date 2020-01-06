@@ -5,7 +5,7 @@ Ian Gorton: Email: i.gortonATnortheastern.edu
 
 Adrienne Slaughter: Email: a.slaughterATnortheastern.edu
 
-## Teaching Assitants
+## Teaching Assistants
 Seattle - coming soon
 
 San Jose - coming soon
