@@ -66,10 +66,9 @@ Expected deliverables  <br>
 Logistics of class and project <br>
 Team formation 
     </td>
-    <td> Agile methods and tools for large distributed teams <br>
+    <td> Overview of SCRUM and Trello <br>
 http://www.scrumprimer.org/scrumprimer20.pdf <br>
 http://scrumtrainingseries.com/ <br>
-https://www.scaledagileframework.com/ <br>
 https://civicactions.com/blog/2012/oct/10/five_tips_for_using_trello_for_scrum <br>
 http://www.tommasonervegna.com/blog/2014/1/9/10-effective-tips-for-using-trello-as-an-agile-scrum-project-management-tool <br>
 http://scrumfortrello.com/ <br>
@@ -103,7 +102,6 @@ Each team must generate a set of candidate user storied based on their understan
   <tr>
     <td>3</td>
     <td>Designing APIs and Interfaces <br>
-	Software Architecture Stability Patterns <br>
 Robustness and Resilience
     </td>
     <td>API Design and REST <br>
@@ -116,7 +114,6 @@ Robustness and Resilience <br>
 http://cdn.oreillystatic.com/en/assets/1/event/79/Stability%20Patterns%20Presentation.pdf <br>
 http://martinfowler.com/bliki/CircuitBreaker.html <br>
 https://msdn.microsoft.com/en-us/library/dn589784.aspx <br>
-https://pragprog.com/book/mnee2/release-it-second-edition
     </td>
     <td>Investigate the libraries you might use for communications in this project and assess candidate libraries for suitability for this project
     </td>
@@ -167,21 +164,9 @@ http://gerrithub.io/ <br>
     <td></td>
   </tr>
   <tr>
-    <td>8 and 9</td>
-    <td>Code a9nd System Metrics </td>
-    <td> Software Metrics: A Rigorous and Practical Approach, Third Edition <br>
-	Goal Question Metric Paradigm (Chapter 3) <br>
-	Size Metrics (Chapter 8)
-	Structure Metrics (Chapter 9)
-	
-	</td>
-    <td>Evaluate and select tools to use to drive refactoring based on identified metrics</td>
-  </tr>
-  <tr>
-    <td>10 onwards</td>
+    <td>8</td>
     <td>The classes focus on monitoring progress for each sprint and presenting and demonstrating deliverables associated with each assessment. The focus is on putting the concept discussed in the early weeks of the course into practice. </td>
-    <td>
-	</td>
+    <td></td>
     <td></td>
   </tr>
  </table>
