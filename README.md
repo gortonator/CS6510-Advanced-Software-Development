@@ -2,11 +2,14 @@
 
 ## Instructors
 Ian Gorton: Email: i.gortonATnortheastern.edu
+
 Adrienne Slaughter: Email: a.slaughterATnortheastern.edu
 
 ## Teaching Assitants
 Seattle - coming soon
+
 San Jose - coming soon
+
 Boston - coming soon
 
 ## Introduction
