@@ -1,4 +1,4 @@
-# ClimateTree
+# ClimateTree Overview
 
 Current events tell us that the climate crisis is in the hands of local leaders and residents as much as it is in those of national representatives and international decision making bodies. To this end, ClimateTree will leverage the global information universe and GIS mapping to accelerate the sharing of meaningful climate solutions research and action. 
 
