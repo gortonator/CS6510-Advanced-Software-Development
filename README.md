@@ -18,6 +18,9 @@ Each class works collaboratively to build a software project for an external cli
 ## Prerequesites
 Students should have completed FSE and/or a coop/intern. These prerequisites can be waived based on individual circumstances and experience such as that gained on COOPs or in other courses such as Web Development, Data Mining/Machine learning. Please contact the Professors to discuss
 
+## Attendance 
+Students are expected to attend each class on campus. If there is avalid reason, then a student may request to attend class remotely. All classes are held via video conference across participating capus locations.
+
 ## Learning Objectives
 At the end of the course, students will have acquired the following knowledge:
 
@@ -47,15 +50,12 @@ There will be major deliverables, in week 3, 7, 11, 14. These will be based on t
 1. **Week 10**: Robust implementations of high priority user stories; demonstrations of medium priority user stories; integration of components across teams (20%)
 1. **Week 14**: Final implementation of high and medium priority user stories; quality of resulting architecture and design; (25%)
 
-There will also be an individual assessemnt based on contribution reports each sprint from each student. (30%)
+There will also be an individual assessment based on contribution reports each sprint from each student. (30%)
 
 ## Curriculum
 
 <table>  
-  <col width="50">
-  <col width="150"> 	
-  <col width="250">
-  <col width="150">  	
+
   <tr>
     <th>Week</th>
     <th> Topics </th>
