@@ -51,7 +51,13 @@ There will also be an individual assessemnt based on contribution reports each s
 
 ## Curriculum
 
-<table>
+
+ <table border="1" width="100%">
+	<col style="width:10%">
+	<col style="width:40%">
+	<col style="width:30%">
+	<col style="width:20%">   
+<thead>	
   <tr>
     <th>Week</th>
     <th>Topics</th>
