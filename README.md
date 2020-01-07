@@ -206,10 +206,8 @@ http://gerrithub.io/ <br>
 	Goal Question Metric Paradigm (Chapter 3) <br>
 	Size Metrics (Chapter 8)
 	Structure Metrics (Chapter 9)
-	
 	</td>
      </tr>
- 
  </table>
 
 ## Homework
@@ -249,10 +247,8 @@ Establish unit testing practices for your teams</td>
   </tr>
   <tr>
     <td>8 and 9</td>
-
     <td>Evaluate and select tools to use to drive refactoring based on identified metrics</td>
   </tr>
   <tr>
-
  </table>
 
