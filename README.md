@@ -117,8 +117,8 @@ There will also be an individual assessment based on contribution reports each s
  </table>
  
  ## Readings
+ 
  <table>  
-
   <tr>
     <th>Week</th>
     <th>Readings</th>
