@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>CS6510-Advanced-Software-Development</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="CS6510-Advanced-Software-Development" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/docs/CS6510ProjectDescription2017.html" />
+<meta property="og:url" content="http://localhost:4000/docs/CS6510ProjectDescription2017.html" />
+<meta property="og:site_name" content="CS6510-Advanced-Software-Development" />
+<script type="application/ld+json">
+{"headline":"CS6510-Advanced-Software-Development","@type":"WebPage","url":"http://localhost:4000/docs/CS6510ProjectDescription2017.html","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=6b185ea149fe5b512e5d2b0367c507940b11effc">
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="/assets/js/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+      <header>
+        <h1>CS6510-Advanced-Software-Development</h1>
+        <p></p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/gortonator/CS6510-Advanced-Software-Development" class="button fork"><strong>View On GitHub</strong></a>
+        
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        
+<p>i.gorton&amp;commat;northeastern.edu<br />
+<img src="https://raw.githubusercontent.com/gortonator/CS6510-Advanced-Software-Development/master/img/CS6510.png" /> <br /></p>
+
+<p>#<strong>Advanced Software Development</strong> 
+##<strong>Spring 2017</strong>
+<strong>Professor:</strong> Ian Gorton, i.gorton@northeastern.edu</p>
+
+<p>###<strong>Project Overview</strong></p>
+
+<p>We will work with Pacific Northwest National Laboratory (<a href="www.pnl.gov">PNNL</a>)  to build a scientific data management and analysis system using the Amazon Web Services EC2 Cloud. The system will provide a range of capabilities for scientists to store, share and analyze data and publish results that can be made both public, and securely shared within a project community.</p>
+
+<p>The project will focus on creating the following capabilities:</p>
+
+<ol>
+  <li>
+    <p>A web platform that allows a scientific project to create a shared
+workspace, user accounts, and a set of Web pages that can be used to
+store, access and visualize data sets.</p>
+  </li>
+  <li>
+    <p>A RESTful API that supports integration with 3rd party data analysis
+    tools and existing data stores</p>
+  </li>
+  <li>A collection of data analysis, mining and visualization algorithms
+    that a scientist can configure to execute automatically when a new
+    data set is uploaded.</li>
+  <li>A flexible metadata store so that individual projects can tag
+    important features in their data to support powerful search and
+    discovery tools.</li>
+</ol>
+
+<p>The project will utilize specific capabilities in AWS such as S3 data storage, lambda services, dynamodb, elastic search, message queueing and workflow services, and elastic load balancing. Agile development techniques will be used to deliver working versions of the system through the course of the semester. Candidate development languages are likely Python, Node.js/Javascript and Java.</p>
+
+<p>###<strong>Course Organization</strong></p>
+
+<p>The project will work with software engineers and atmospheric scientists at PNNL. The initial use case will be the Atmosphere to Electrons (<a href="https://a2e.energy.gov/">A2e</a>) project which is  improving wind plant performance  to achieve substantial reductions in the cost of wind energy production.</p>
+
+<p>Students will form small teams based on locations (Boston, Seattle) and system components and be allocated responsibility for designing and building a specific system component. The development will follow agile techniques with deliverables, defined by each team, every 3-4 weeks. Teams will be responsible for designing interfaces and APIs to facilitate cross-component communications and publishing these for use by other teams.</p>
+
+<p>A more detailed project description is given below.</p>
+
+<hr />
+
+<p>#<strong>Taking Velo to the Clouds</strong></p>
+
+<p>###<strong>Executive Summary</strong></p>
+
+<p><a href="http://www.pnl.gov/computing/velo/index.stm">Velo</a> has been developed at PNNL over a number of years as a domain-agnostic, data management, simulation and analysis platform. Velo is deployed both within PNNL and externally, encompassing disciplines such as carbon sequestration, subsurface simulation, geothermal modeling, and electron microscopy. Currently, each new separate Velo deployment requires the associated science project to deploy and manage its own server environment, which can be an impediment to adoption due to associated upfront and ongoing costs. Further, the existing server architecture has scalability limits in handling big data volumes and velocities, and becomes overwhelmed when concurrent users multiply from tens to hundreds. In response to these problems, this white paper describes how Velo can be transformed into a cloud-hosted Platform-as-a-Service (PaaS) technology. This would enable science teams to subscribe to a Velo service that can be quickly customized for their project. Costs would be minimized through a pay-as-you-go model, and the underlying cloud services would provide the necessary scaling capabilities to accommodate any size project.</p>
+
+<p>###<strong>Aims and Objectives</strong> 
+Capturing, managing and curating scientific data from high fidelity instruments and simulations is placing an ever-increasing burden on scientific research teams. This is a burden that will only increase as instrument technology advances (e.g. The Square Kilometre Array) and simulations routinely move to exascale.</p>
+
+<p>Velo has been created at PNNL to provide a flexible and powerful platform for science. Velo is intentionally designed to be highly configurable so that heterogeneous data formats and simulations can be integrated without any significant new development. This makes it applicable to potentially any scientific domain. Evidence of this lies in successful deployments for DOE-EM’s ASCEM project (http://esd1.lbl.gov/research/projects/ascem/), EPA’s Class VI Underground Injection Control Program (https://www.epa.gov/uic/final-class-vi-guidance-documents),  and DOE-EERE’s Geothermal Technology Office (http://energy.gov/eere/geothermal/geothermal-energy-us-department-energy).</p>
+
+<p>Since Velo was conceived, commercial and on-premise cloud technologies have become economically viable for storing massive amounts of data at low cost. Cloud platforms such as Amazon Web Services (AWS) can also provide computational resources ‘on demand’ to cost-effectively perform simulations and analyses, as these cloud systems support a pay-for-use model. This is a major factor in reducing upfront capital investment along with setup and maintenance costs, especially for large scale government funded projects.</p>
+
+<p>Providing Velo to the scientific community as a highly configurable, massively scalable Platform-as-a-Service (PaaS) technology would eliminate major barriers to adoption and provide significant cost reductions.  We envisage a Velo PaaS that would enable scientific user communities to:</p>
+
+<ul>
+  <li>
+    <p>Create a shared, secure workspace on a cloud platform for user access</p>
+  </li>
+  <li>
+    <p>Specify project data organization, data types and metadata</p>
+  </li>
+  <li>
+    <p>Specify data sources (e.g. instruments, model outputs) and any
+pre-processing and data quality checking required</p>
+  </li>
+  <li>
+    <p>Specify a toolbox of analysis and simulation codes that are available
+for the user community</p>
+  </li>
+</ul>
+
+<p>The Velo PaaS would provide services that make all of the above possible without programming, making the service accessible to scientists without comprehensive software development skills. Velo would leverage the underlying cloud services to dynamically allocate the necessary storage, install analysis and simulation tools based on dynamically loadable virtual environments, and generate personal and shared workspaces for each user in the project community.</p>
+
+<p>###<strong>Towards  a Velo PaaS</strong></p>
+
+<p>We propose to migrate Velo to become a cloud-based platform, initially running on Amazon Web Services. The platform would maintain interface compatibility with the existing Velo implementation so that all current deployments and users can be supported downstream. The existing Velo server based on Alfresco would be replaced by equivalent capabilities that exploit AWS’s massively scalable data storage and compute capabilities. For example:</p>
+
+<p><strong>Metadata storage:</strong> Initially AWS DynamoDB or equivalent can be used for project metadata storage. Metadata representing all project artifacts (e.g. data, simulation setup, results, reports, papers) can be indexed and held in DynamoDB  at low cost. I</p>
+
+<p><strong>Data storage:</strong> Large scale data sets can be stored in Amazon’s S3 storage tier. This has essentially unlimited scalability.  S3 data sets that are seldom accessed can be moved to Amazon’s Glacier storage, which provides long term archiving at very low cost.</p>
+
+<p><strong>Semantic search service:</strong> Customized search capabilities for a Velo project site can be provided using CloudSearch. This provides powerful, programmable search capabilities that can index and operate on structured data and plain text.</p>
+
+<p><strong>Domain-specific Analysis Tools:</strong> We will exploit AWS’s ability to dynamically load and execute domain-specific analysis tools so that each Velo site can install a custom set of capabilities for its users. A simple Web-based UI will provide users with the ability to select tools and data sets, and Velo will orchestrate the execution of the task, informing the user when the results are complete.</p>
+
+<p><strong>Fast File Transfer:</strong> We will integrate Velo with the Globus Online file transfer service to enable high speed data transport to the Velo PaaS from computational centers. If low bandwidth transfer is acceptable AWS’s Snowball batch service can be utilized at considerably lower cost.</p>
+
+<p>We believe that a robust and scalable implementation of these services can form the core of a Velo Paas that can achieve broad user acceptance in the scientific community.</p>
+
+
+
+      </section>
+      <footer>
+        
+          <p>Project maintained by <a href="https://github.com/gortonator">gortonator</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>
