@@ -52,7 +52,8 @@ There will be major deliverables, in week 3, 7, 11, 14. These will be based on t
 
 There will also be an individual assessment based on contribution reports each sprint from each student. (30%)
 
-## Curriculum                                                         
+## Curriculum                  
+
 <table>  
   <tr>
     <th>Week</th>
@@ -117,6 +118,7 @@ There will also be an individual assessment based on contribution reports each s
  </table>
  
  ## Readings
+ 
  <table>  
   <tr>
     <th>Week</th>
@@ -212,6 +214,7 @@ http://gerrithub.io/ <br>
  </table>
 
 ## Homework
+
 <table>  
 
   <tr>
