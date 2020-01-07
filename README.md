@@ -117,7 +117,8 @@ There will also be an individual assessment based on contribution reports each s
  </table>
  
  ## Reading
-  <table>  
+ 
+ <table>  
   <tr>
     <th>Week</th>
     <th>Readings</th>
@@ -212,6 +213,7 @@ http://gerrithub.io/ <br>
  </table>
 
 ## Homework
+
 <table>  
   <tr>
     <th>Week</th>
