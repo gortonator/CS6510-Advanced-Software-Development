@@ -117,8 +117,7 @@ There will also be an individual assessment based on contribution reports each s
  </table>
  
 ## Reading
- 
- <table>  
+<table>  
   <tr>
     <th>Week</th>
     <th>Readings</th>
@@ -207,11 +206,10 @@ http://gerrithub.io/ <br>
 	Size Metrics (Chapter 8)
 	Structure Metrics (Chapter 9)
 	</td>
-     </tr>
+    </tr>
  </table>
 
 ## Homework
-
 <table>  
   <tr>
     <th>Week</th>
@@ -249,6 +247,5 @@ Establish unit testing practices for your teams</td>
     <td>8 and 9</td>
     <td>Evaluate and select tools to use to drive refactoring based on identified metrics</td>
   </tr>
-  <tr>
- </table>
+</table>
 
