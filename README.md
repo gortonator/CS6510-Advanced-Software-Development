@@ -125,42 +125,43 @@ There will also be an individual assessment based on contribution reports each s
   <tr>
     <td>1</td>
     <td> Overview of SCRUM and Trello <br>
-	http://www.scrumprimer.org/scrumprimer20.pdf <br>
-	http://scrumtrainingseries.com/ <br>
-	https://civicactions.com/blog/2012/oct/10/five_tips_for_using_trello_for_scrum <br>
-	http://www.tommasonervegna.com/blog/2014/1/9/10-effective-tips-for-using-trello-as-an-agile-scrum-project-management-tool <br>
-	http://scrumfortrello.com/ <br>
-	https://www.burndownfortrello.com/ 
+    <a href="http://www.scrumprimer.org/scrumprimer20.pdf" target="_blank">The Scrum Primer</a><br>
+    <a href="http://scrumtrainingseries.com/" target="_blank">Scrum Training Series</a><br>
+    <a href="https://civicactions.com/blog/2012/oct/10/five_tips_for_using_trello_for_scrum" target="_blank">Tips for using Trello 1</a><br>
+	<a href="http://www.tommasonervegna.com/blog/2014/1/9/10-effective-tips-for-using-trello-as-an-agile-scrum-project-management-tool" target="_blank">Tips for using Trello 2</a><br>
+	<a href="http://scrumfortrello.com/" target="_blank">Scrum for Trello</a><br>
+	<a href="https://www.burndownfortrello.com/ " target="_blank">Burndown for Trello</a><br>
     </td>
    
   </tr>
   <tr>
     <td>2</td>
     <td>Agile Requirements <br>
-https://www.scrumalliance.org/community/articles/2012/february/agile-requirements-definition-and-management <br>
-https://www.atlassian.com/agile/requirements/ <br>
+    <a href="https://www.scrumalliance.org/community/articles/2012/february/agile-requirements-definition-and-management" target="_blank">Agile Requirements and Definition</a><br>
+	<a href="https://www.atlassian.com/agile/requirements" target="_blank">Agile Requirements-Atlassian</a><br>
+	<br/>
 Distributed Teams <br>
-http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4599502&tag=1 <br>
-<br>
+<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4599502&tag=1" target="_blank">Fully Distributed Scrum</a><br>
+<br/>
 Test Driven Development <br>
-http://www.agiledata.org/essays/tdd.html#TraditionalTesting <br>
-https://www.scrumalliance.org/community/articles/2011/may/my-experiments-with-tdd <br>
-http://beust.com/weblog/2014/05/11/the-pitfalls-of-test-driven-development/ <br>
+<a href="http://www.agiledata.org/essays/tdd.html#TraditionalTesting" target="_blank">Traditional Testing</a><br>
+<a href="https://www.scrumalliance.org/community/articles/2011/may/my-experiments-with-tdd" target="_blank">Scrum Alliance</a><br>
+<a href="http://beust.com/weblog/2014/05/11/the-pitfalls-of-test-driven-development/" target="_blank">Pitfalls of TDD</a><br>
 </td>
   </tr>
   <tr>
     <td>3</td>
     <td>API Design and REST <br>
-http://lcsd05.cs.tamu.edu/slides/keynote.pdf <br>
-http://codeplanet.io/principles-good-restful-api-design/ <br>
-http://martinfowler.com/bliki/HumaneInterface.html <br>
-http://martinfowler.com/bliki/MinimalInterface.html <br>
+    <a href="http://lcsd05.cs.tamu.edu/slides/keynote.pdf" target="_blank">TAMU slides</a><br>
+    <a href="http://codeplanet.io/principles-good-restful-api-design/" target="_blank">REST Principles</a><br>
+    <a href="http://martinfowler.com/bliki/HumaneInterface.html" target="_blank">Humane Interface</a><br>
+    <a href="http://martinfowler.com/bliki/MinimalInterface.html" target="_blank">Minimal Interface</a><br>
 <br>
 Robustness and Resilience <br>
-http://cdn.oreillystatic.com/en/assets/1/event/79/Stability%20Patterns%20Presentation.pdf <br>
-http://martinfowler.com/bliki/CircuitBreaker.html <br>
-https://msdn.microsoft.com/en-us/library/dn589784.aspx <br>
-    </td>
+<a href="http://cdn.oreillystatic.com/en/assets/1/event/79/Stability%20Patterns%20Presentation.pdf" target="_blank">Stability Patterns</a><br>
+<a href="http://martinfowler.com/bliki/CircuitBreaker.html" target="_blank">Circuit Breaker</a><br>
+<a href="https://msdn.microsoft.com/en-us/library/dn589784.aspx" target="_blank">Circuit Breaker - Microsoft</a><br>
+ </td>
 
   </tr>
   <tr>
@@ -169,8 +170,7 @@ https://msdn.microsoft.com/en-us/library/dn589784.aspx <br>
    </tr>
   <tr>
     <td>5</td>
-    <td>For an overview on code quality in agile developments <br>
-http://www.scaledagileframework.com/code-quality/  <br>
+    <td>For an overview on code quality in agile developments - <a href="http://www.scaledagileframework.com/code-quality/" target="_blank">here</a><br>
 <br>
 There’s an extensive body of work on developing quality code. Here’s some examples that are worth dipping in to, and are typical books on any good engineer’s book shelf <br>
 Code Complete, by Steve McConnell. <br>
@@ -179,19 +179,21 @@ Design Patterns: Elements of Reusable Object-Oriented Software , by Erich Gamma,
 Object-Oriented Design Heuristics , by Arthur Riel. <br>
 <br>
 This material should give you some insights into unit testing approaches and tools you can use: <br>
-http://martinfowler.com/bliki/UnitTest.html <br>
-http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/ <br>
-https://msdn.microsoft.com/library/hh323702(v=vs.100).aspx <br>
-http://blog.zuehlke.com/en/best-practices-in-unit-testing/ <br>
-http://martinfowler.com/articles/mocksArentStubs.html </td>
-   
+<a href="http://martinfowler.com/bliki/UnitTest.html" target="_blank">Martin Fowler's - Unit Test</a><br>
+<a href="http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/">Writing great unit test</a><br>
+<a href="https://msdn.microsoft.com/library/hh323702(v=vs.100).aspx" target="_blank">Service Testing - Microsoft</a><br>
+<a href="http://blog.zuehlke.com/en/best-practices-in-unit-testing/">Best Practices in Unit Testing</a><br>
+<a href="http://martinfowler.com/articles/mocksArentStubs.html " target="_blank">Mocks vs Stubs</a><br>
+</td>
   </tr>
   <tr>
     <td>6</td>
-    <td> http://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/ <br>
-https://msdn.microsoft.com/en-us/library/bb871031.aspx <br>
-https://en.wikipedia.org/wiki/List_of_tools_for_code_review <br>
-http://gerrithub.io/ <br>
+    <td> 
+    Code Reviews<br>
+    <a href="http://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/" target="_blank">Proven Practices</a><br>
+    <a href="https://msdn.microsoft.com/en-us/library/bb871031.aspx" target="_blank">Best Practices - Microsoft</a><br>
+    <a href="https://en.wikipedia.org/wiki/List_of_tools_for_code_review">List of Tools</a><br>
+    <a href="http://gerrithub.io/" target="_blank">Gerrit Code Review</a><br>
     </td>
 
   </tr>
@@ -201,7 +203,9 @@ http://gerrithub.io/ <br>
   </tr>
    <tr>
     <td>8 and 9</td>
-    <td> Software Metrics: A Rigorous and Practical Approach, Third Edition <br>
+    <td> 
+    Software Metrics <br>
+    Software Metrics: A Rigorous and Practical Approach, Third Edition <br>
 	Goal Question Metric Paradigm (Chapter 3) <br>
 	Size Metrics (Chapter 8)
 	Structure Metrics (Chapter 9)
