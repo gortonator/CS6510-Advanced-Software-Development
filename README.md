@@ -13,7 +13,7 @@
 ASD is designed to integrate academic concepts and practical experience of software engineering by having students work as part of a sizeable agile programming team, with options to lead a subteam. The course offers students an opportunity to study, in-depth, some aspects of the development process pertinent to a complex, ill-defined set of system requirements. The goal is to have students participate in a large-scale project, taking time to reflect and analyze the work and the process, and to produce a significant demonstrable outcome in the form of a working, deployed software system.
 
 ## Project
-Each class works collaboratively to build a software project for an external client. The project description for the Spring 2020 Semester is [here](https://gortonator.github.io/CS6510-Advanced-Software-Development/ClimateTree).
+Each class works collaboratively to build a software project for an external client. The project description for the Spring 2020 Semester is [here](https://gortonator.github.io/CS6510-Advanced-Software-Development/ClimateTree), and here's the [initial class presentation on ClimateTree](https://gortonator.github.io/CS6510-Advanced-Software-Development/ClimateTree-Comcept.pdf).
 
 ## Prerequesites
 Students should have completed FSE and/or a coop/intern. These prerequisites can be waived based on individual circumstances and experience such as that gained on COOPs or in other courses such as Web Development, Data Mining/Machine learning. Please contact the Professors to discuss
