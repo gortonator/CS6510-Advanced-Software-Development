@@ -5,9 +5,9 @@
 - __Adrienne Slaughter__: a.slaughterATnortheastern.edu
 
 ## Teaching Assistants
-- Seattle - coming soon
+- Seattle - __Meixing Dong__: dong.meiAThusky.neu.edu
 - San Jose - __Neha Shukla__: shukla.neAThusky.neu.edu
-- Boston - coming soon
+- Boston - __Yash Bhavsar__: bhavsar.yAThusky.neu.edu
 
 ## Introduction
 ASD is designed to integrate academic concepts and practical experience of software engineering by having students work as part of a sizeable agile programming team, with options to lead a subteam. The course offers students an opportunity to study, in-depth, some aspects of the development process pertinent to a complex, ill-defined set of system requirements. The goal is to have students participate in a large-scale project, taking time to reflect and analyze the work and the process, and to produce a significant demonstrable outcome in the form of a working, deployed software system.
@@ -180,9 +180,9 @@ Object-Oriented Design Heuristics , by Arthur Riel. <br>
 <br>
 This material should give you some insights into unit testing approaches and tools you can use: <br>
 <a href="http://martinfowler.com/bliki/UnitTest.html" target="_blank">Martin Fowler's - Unit Test</a><br>
-<a href="http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/">Writing great unit test</a><br>
+<a href="http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/" target="_blank">Writing great unit test</a><br>
 <a href="https://msdn.microsoft.com/library/hh323702(v=vs.100).aspx" target="_blank">Service Testing - Microsoft</a><br>
-<a href="http://blog.zuehlke.com/en/best-practices-in-unit-testing/">Best Practices in Unit Testing</a><br>
+<a href="http://blog.zuehlke.com/en/best-practices-in-unit-testing/" target="_blank">Best Practices in Unit Testing</a><br>
 <a href="http://martinfowler.com/articles/mocksArentStubs.html " target="_blank">Mocks vs Stubs</a><br>
 </td>
   </tr>
@@ -192,7 +192,7 @@ This material should give you some insights into unit testing approaches and too
     Code Reviews<br>
     <a href="http://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/" target="_blank">Proven Practices</a><br>
     <a href="https://msdn.microsoft.com/en-us/library/bb871031.aspx" target="_blank">Best Practices - Microsoft</a><br>
-    <a href="https://en.wikipedia.org/wiki/List_of_tools_for_code_review">List of Tools</a><br>
+    <a href="https://en.wikipedia.org/wiki/List_of_tools_for_code_review" target="_blank">List of Tools</a><br>
     <a href="http://gerrithub.io/" target="_blank">Gerrit Code Review</a><br>
     </td>
 
