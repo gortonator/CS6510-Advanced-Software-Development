@@ -127,8 +127,8 @@ There will also be an individual assessment based on contribution reports each s
     <td> Overview of SCRUM and Trello <br>
     <a href="http://www.scrumprimer.org/scrumprimer20.pdf" target="_blank">The Scrum Primer</a><br>
     <a href="http://scrumtrainingseries.com/" target="_blank">Scrum Training Series</a><br>
-    <a href="https://civicactions.com/blog/2012/oct/10/five_tips_for_using_trello_for_scrum" target="_blank">Tips for using Trello 1</a><br>
-	<a href="http://www.tommasonervegna.com/blog/2014/1/9/10-effective-tips-for-using-trello-as-an-agile-scrum-project-management-tool" target="_blank">Tips for using Trello 2</a><br>
+    <a href="https://blog.hubstaff.com/agile-trello/" target="_blank">Setting up Trello board</a><br>
+	<a href="http://www.tommasonervegna.com/blog/2014/1/9/10-effective-tips-for-using-trello-as-an-agile-scrum-project-management-tool" target="_blank">Tips for using Trello</a><br>
 	<a href="http://scrumfortrello.com/" target="_blank">Scrum for Trello</a><br>
 	<a href="https://www.burndownfortrello.com/ " target="_blank">Burndown for Trello</a><br>
     </td>
@@ -137,7 +137,7 @@ There will also be an individual assessment based on contribution reports each s
   <tr>
     <td>2</td>
     <td>Agile Requirements <br>
-    <a href="https://www.scrumalliance.org/community/articles/2012/february/agile-requirements-definition-and-management" target="_blank">Agile Requirements and Definition</a><br>
+    <a href="https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories" target="_blank">Agile Requirements and Definition</a><br>
 	<a href="https://www.atlassian.com/agile/requirements" target="_blank">Agile Requirements-Atlassian</a><br>
 	<br/>
 Distributed Teams <br>
@@ -145,15 +145,15 @@ Distributed Teams <br>
 <br/>
 Test Driven Development <br>
 <a href="http://www.agiledata.org/essays/tdd.html#TraditionalTesting" target="_blank">Traditional Testing</a><br>
-<a href="https://www.scrumalliance.org/community/articles/2011/may/my-experiments-with-tdd" target="_blank">Scrum Alliance</a><br>
+<a href="https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92" target="_blank">Principles of TDD</a><br>
 <a href="http://beust.com/weblog/2014/05/11/the-pitfalls-of-test-driven-development/" target="_blank">Pitfalls of TDD</a><br>
 </td>
   </tr>
   <tr>
     <td>3</td>
     <td>API Design and REST <br>
-    <a href="http://lcsd05.cs.tamu.edu/slides/keynote.pdf" target="_blank">TAMU slides</a><br>
-    <a href="http://codeplanet.io/principles-good-restful-api-design/" target="_blank">REST Principles</a><br>
+    <a href="https://www.youtube.com/watch?v=heh4OeB9A-c&feature=youtu.be" target="_blank">How to Design a good API and why it matters by Joshua Bloch</a><br>
+    <a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm" target="_blank">REST Principles - Roy Fielding</a><br>
     <a href="http://martinfowler.com/bliki/HumaneInterface.html" target="_blank">Humane Interface</a><br>
     <a href="http://martinfowler.com/bliki/MinimalInterface.html" target="_blank">Minimal Interface</a><br>
 <br>
@@ -170,7 +170,7 @@ Robustness and Resilience <br>
    </tr>
   <tr>
     <td>5</td>
-    <td>For an overview on code quality in agile developments - <a href="http://www.scaledagileframework.com/code-quality/" target="_blank">here</a><br>
+    <td>For an overview on code quality in agile developments - <a href="https://codingsans.com/blog/code-quality" target="_blank">here</a><br>
 <br>
 There’s an extensive body of work on developing quality code. Here’s some examples that are worth dipping in to, and are typical books on any good engineer’s book shelf <br>
 Code Complete, by Steve McConnell. <br>
