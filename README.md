@@ -47,7 +47,7 @@ There will be major deliverables, in week 3, 7, 11, 14. These will be based on t
 
 1. **Week 3**: User stories defined, development frameworks and build tools environments established, plan for first sprint in place based on prioritized defined tasks. (10%).
 1. **Week 6**: Initial demonstrable prototype that supports high priority user stories; retrospective on first sprint; plan for next sprint established (15%)
-1. **Week 10**: Robust implementations of high priority user stories; demonstrations of medium priority user stories; integration of components across teams (20%)
+1. **Week 11**: Robust implementations of high priority user stories; demonstrations of medium priority user stories; integration of components across teams (20%)
 1. **Week 14**: Final implementation of high and medium priority user stories; quality of resulting architecture and design; (25%)
 
 There will also be an individual assessment based on contribution reports each sprint from each student. (30%)
